@@ -1,0 +1,5 @@
+Projeto de controle e temperatura e umidade de remédios durante o transporte de lotes
+-Sensor DHT11
+-Criar backlog(listar requisitos, classificar como funcionais ou não funcionais, classificar entre essencial, importante ou desejável)
+-Criar protótipo do site(power point)
+-criar banco de dados(tabelas de lote, motorista, transporte)
