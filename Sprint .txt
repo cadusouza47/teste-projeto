@@ -1,0 +1,11 @@
+comandos ao utilizar o gitbash
+
+-git pull (puxar arquivos que já estão no github)
+
+-git add . (adcionar os arquivos novos na pasta)
+
+-git commit -m "direcionais para sprint 1"
+
+-git push (enviar o arquivo para o github)
+
+-git status (para checar o commit feito)
